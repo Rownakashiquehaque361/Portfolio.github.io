@@ -1,13 +1,13 @@
 ---
-title: PyTorch
+title: Registration Form
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://github.com/Rownakashiquehaque361/registrationform
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Registration Form
 
 <!--more-->
