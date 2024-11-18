@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Sharmin Jahan 
+title: Rawnak
 
 # Full name ()
-first_name: Sharmin
-last_name: Jahan
+first_name: Rawnak Ashique
+last_name: haque
 
 # Status emoji
 status:
@@ -28,10 +28,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your assets/media/icons/ folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:sharminjahan12th@.com'
+    url: 'mailto:rawnakdristi50@.com'
     label: E-mail Me
   - icon: brands/instagram
-    url: https://www.instagram.com/sharminjahan.sathi/profilecard/?igsh=MXVoand6MWpqcGcwdg==
+    url: https://www.instagram.com/rownakdristi?igsh=NG1ubWwycjFqb3d6
   - icon: brands/github
     url: https://github.com/Sharmin-jahan-sathi
   - icon: brands/linkedin
@@ -53,14 +53,14 @@ education:
     date_end: ''
     
   - area: Higher Secondary School Certificate
-    institution: Dinajpur Govt.Women College
+    institution: Dinajpur Govt College
     date_start: 2018-01-01
     date_end: 2020-05-01
     summary: |
       GPA: 5.0/5.0
 
   - area: Secondary School Certificate
-    institution: Shohid Faruqe Iqbal Girls High School
+    institution: Dinajpur Govt. Girls High School
     date_start: 2016-01-01
     date_end: 2018-04-01
     summary: |
