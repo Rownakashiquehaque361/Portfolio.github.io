@@ -1,13 +1,13 @@
 ---
-title: Pandas
+title: Techinical Documentation Page
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/Rownakashiquehaque361/technical-documtation-page
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Techinical Documentation Page
 
 <!--more-->
