@@ -33,9 +33,8 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/rownakdristi?igsh=NG1ubWwycjFqb3d6
   - icon: brands/github
-    url: https://github.com/Sharmin-jahan-sathi
-  - icon: brands/linkedin
-    url: https://bd.linkedin.com/in/sharmin-jahan-sathi-a47103329
+    url: https://github.com/Rownakashiquehaque361
+    
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -112,4 +111,4 @@ languages:
 
 ## About Me
 
-I am Sharmin Jahan Sathi, a Computer Science and Engineering student at Jahangirnagar University with a deep interest in web development,IOT and Robotics. I am passionate about designing innovative, efficient, and user-friendly web applications that push the boundaries of creativity and technology. I am particularly drawn to crafting user-centric web applications, exploring the possibilities of interconnected systems, and advancing intelligent automation. My vision is to create digital solutions that not only solve real-world problems but also inspire seamless interaction. Fueled by determination and a growth mindset, I am eager to make my mark in the ever-evolving realm of web technology.
+I am Rownak Ashique Haque, a Computer Science and Engineering student at Jahangirnagar University with a deep interest in web development,IOT and Robotics. I am passionate about designing innovative, efficient, and user-friendly web applications that push the boundaries of creativity and technology. I am particularly drawn to crafting user-centric web applications, exploring the possibilities of interconnected systems, and advancing intelligent automation. My vision is to create digital solutions that not only solve real-world problems but also inspire seamless interaction. Fueled by determination and a growth mindset, I am eager to make my mark in the ever-evolving realm of web technology.
