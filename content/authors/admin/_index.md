@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Rawnak
+title: Rownak
 
 # Full name ()
-first_name: Rawnak Ashique
+first_name: Rownak Ashique
 last_name: haque
 
 # Status emoji
 status:
-  icon: 🌿
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
